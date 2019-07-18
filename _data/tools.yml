@@ -537,6 +537,15 @@
   description: Generate Server side API code with routing, models, data validation and database schema from an OpenAPI description file. Based on Yii Framework.
   v2: false
   v3: true
+  
+- name: Connexion
+  category: server
+  language: Python
+  link: https://pypi.org/project/connexion
+  github: https://github.com/zalando/connexion
+  description: Swagger/OpenAPI First framework for Python on top of Flask with automatic endpoint validation & OAuth2 support
+  v2: true
+  v3: true
 
 # Schema Validators
 
